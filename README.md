@@ -24,7 +24,7 @@ Add in composer json in 'require' section:
 ```json
 {
     "require": {
-        "zomberg/php-query": "dev-master"
+        "zomberg/phpquery": "dev-master"
     }
 }
 ```
